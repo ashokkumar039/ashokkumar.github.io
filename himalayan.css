@@ -1,0 +1,61 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("wp2500540-royal-enfield-himalayan-wallpapers.jpg");
+	
+}
+
+h1 {
+	text-align: center;
+	display: all;
+	background-color: white;
+	box-sizing: content-box;
+	color: red;
+	font-size: 50px;
+	margin: 95px 0 50px;
+	
+}
+.himalayan1 {
+	
+	position: absolute;
+	text-align: left;
+	top: 70%;
+	left:32%;
+	
+	
+	padding-left: 5px;
+	transform: translate(-50%,-50%);
+	padding: 40px;
+	box-sizing: border-box;
+	background: #fff;
+	border-radius: 4px;
+	box-shadow: 10px 5px 15px rgba(0,0,0,.5);
+	display: flex;
+}
+
+.himalayan1:hover{
+	box-shadow: 10px 5px 15px red;
+	
+}
+
+.himalayan1 .himalayan2 {
+	width: 230px;
+	padding-left: 0px;
+	flex: 0 0 150px;
+
+}
+
+.himalayan1 .himalayan2 img{
+	max-width: 100%;
+	height: 20vh;
+	padding-left: 0px;
+	
+
+}
+
+.himalayan1 .text{
+	padding-left: 20px;
+	font-size: bold;
+	font-family: serif;
+
+}

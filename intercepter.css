@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("royal-enfield-banner.jpg");
+	
+}
+
+h1 {
+	text-align: center;
+	display: all;
+	color: #FCFA09;
+	font-size: 35px;
+	margin: 95px 0 50px;
+	margin-left: 19%;
+}
+.intercepter1 {
+	
+	position: absolute;
+	text-align: left;
+	top: 70%;
+	left: 35%;
+	
+	
+	padding-left: 10px;
+	transform: translate(-50%,-50%);
+	padding: 40px;
+	box-sizing: border-box;
+	background: #fff;
+	border-radius: 4px;
+	box-shadow: 10px 5px 15px rgba(0,0,0,.5);
+	display: flex;
+}
+
+.intercepter1:hover{
+	box-shadow: 10px 5px 15px red;
+	
+}
+
+.intercepter1 .intercepter2 {
+	width: 230px;
+	padding-left: 0px;
+	flex: 0 0 150px;
+
+}
+
+.intercepter1 .intercepter2 img{
+	max-width: 100%;
+	height: 20vh;
+	padding-left: 0px;
+	
+
+}
+
+.intercepter1 .text{
+	padding-left: 20px;
+	font-size: bold;
+	font-family: serif;
+
+}

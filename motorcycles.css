@@ -1,0 +1,120 @@
+
+
+
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url("wp3095962-royal-enfield-thunderbird-350x-wallpapers.jpg");
+	background-repeat: no-repeat;
+
+}
+
+header{
+ 		background-color: #FCFA09;
+ 		
+ 		padding-left: 0;
+ 		height: auto;	
+ 		display: flex;
+ 		background-size: auto;
+
+ 	}
+
+
+nav ul {
+
+	padding: 0px;
+	margin: 0;
+}
+
+
+nav ul li {
+	
+	list-style-type: none;
+	float: left;
+	margin-top: 6px;
+	padding: 0;
+}
+nav ul li a{
+
+	color:red;
+	text-decoration: none;
+	margin-left: 15px;
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+	display: block;
+}
+
+#nav{
+	font-family: sans-serif;
+
+}
+
+
+.bikes:hover {
+
+	background-color: white;
+	padding: auto;
+	height: auto;
+
+}
+
+
+
+.divider{
+	background-color: red;
+	height: 5px;
+	
+}
+
+
+
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+	align:left;
+}
+
+
+
+.gallery {
+	margin: 10px 50px;
+	padding-top: 230px;
+
+}
+
+.gallery img {
+	width: 220px;
+	padding: 5px;
+	transition: 1.0s;
+}
+
+.gallery img:hover {
+	transform: scale(0.5); 
+}
+
+
+
+video{
+	width: 480px;
+	height: 360px;
+	padding: 200px 0px 0px 400px;
+	height: auto;
+	z-index: -1;
+
+
+}
+
+.text{
+	font-size: 30px;
+	background-color: forestgreen;
+	text-align: center;
+	font-style: bold;
+	text-shadow: 2px 3px #FF0000;
+	margin-bottom: 0;
+	color:white;
+
+
+}
+
